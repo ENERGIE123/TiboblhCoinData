@@ -1,0 +1,6 @@
+{
+  "name": "Tiboblh Coin",
+  "symbol": "TIBOBLH",
+  "description": "The official Tiboblh",
+  "image": "https://raw.githubusercontent.com/ENERGIE123/TiboblhCoinData/refs/heads/main/11zon_resized.png"
+}
